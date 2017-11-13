@@ -1,0 +1,9 @@
+{
+    "path" : "~/Desktop/myfirstpackage",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
