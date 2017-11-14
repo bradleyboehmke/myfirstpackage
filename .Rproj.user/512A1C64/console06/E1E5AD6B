@@ -1,0 +1,8 @@
+]0;~/Desktop/myfirstpackage[?1034hBradleys-MacBook-Pro:myfirstpackage bradleyboehmke$ [KBradleys-MacBook-Pro:myfirstpackage bradleyboehmke$ cd '/Users/bradleyboehmke/Desktop/myfirstpackage'[Kinit
+bash: init: command not found
+]0;~/Desktop/myfirstpackageBradleys-MacBook-Pro:myfirstpackage bradleyboehmke$ remote add origina[K git@github.com: bradleyboehmke/myfirstpacka ge.git
+bash: remote: command not found
+]0;~/Desktop/myfirstpackageBradleys-MacBook-Pro:myfirstpackage bradleyboehmke$ remote add origin git@github.com: bradleyboehmke/myfirstpackagge.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[Kadd origin git@github.com: bradleyboehmke/myfirstpackage.git
+bash: add: command not found
+]0;~/Desktop/myfirstpackageBradleys-MacBook-Pro:myfirstpackage bradleyboehmke$ 
