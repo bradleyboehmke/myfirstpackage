@@ -1,11 +1,19 @@
 Package: myfirstpackage
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Personal R package of Brad Boehmke
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Date: 2017-11-01
+Author: person("Bradley", "Boehmke", email = "bradleyboehmke@gmail.com", role = c("aut", "cre"))
+Maintainer: Bradley Boehmke <bradleyboehmke@gmail.com>
+Description: Personal R package developed for my package building 101 course.  
+License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.0.1
+Depends: R (>= 2.10)
+Imports: stats
+Suggests: testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+

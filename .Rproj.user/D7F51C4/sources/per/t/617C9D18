@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1490094310",
+    "hash" : "2486117227",
     "id" : "617C9D18",
-    "lastKnownWriteTime" : 1510578092,
-    "last_content_update" : 1510578092,
+    "lastKnownWriteTime" : 1510706745,
+    "last_content_update" : 1510706745,
     "path" : "~/Desktop/myfirstpackage/DESCRIPTION",
     "project_path" : "DESCRIPTION",
     "properties" : {
+        "cursorPosition" : "12,0",
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,
